@@ -64,3 +64,20 @@ h2{
 .lat{
   width: 440px;
 }
+button{
+  padding: 1rem 2rem;
+  border-style: none;
+  border-radius: 5px;
+  background-color: orangered;
+  display: block;
+  margin: 0 auto;
+  color: white;
+  font-size: 27px;
+}
+.btnc{
+  text-align: center;
+  background-color: transparent;
+  border: 2px solid orangered;
+  border-style: dashed;
+  padding: 1rem;
+}

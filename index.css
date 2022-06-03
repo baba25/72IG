@@ -7,7 +7,7 @@ body{
   margin-right: auto;
 }
 .vidc{
-    border: 2px solid orangered;
+    border: 1px solid #000;
     text-align: center;
     margin: 1rem 0;
 }
@@ -31,7 +31,7 @@ h1{
   font-size: 40px;
 }
 .imgc{
-  border: 2px solid orangered;
+  border: 1px solid #000;
   margin: 1rem 0;
   padding: auto;
 }
@@ -76,9 +76,10 @@ button{
 }
 .btnc{
   text-align: center;
-  background-color: transparent;
-  border: 2px solid orangered;
+  background-color: #000;
+  border: 2px solid #fff;
   border-style: dashed;
   padding: 1rem;
   margin: 1rem 0;
+  color: #fff;
 }

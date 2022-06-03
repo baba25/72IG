@@ -1,5 +1,8 @@
 body{
   font-family: 'loto', sans-serif;
+  max-width: 500px;
+  margin: auto;
+  padding: 1rem;
 }
 .vid{
   display: block;
@@ -82,4 +85,25 @@ button{
   padding: 1rem;
   margin: 1rem 0;
   color: #fff;
+}
+.float{
+  background-color: orangered;
+  color: white;
+  border-style: none;
+  position: fixed;
+  z-index: 9;
+  bottom: 6%;
+  left: auto;
+  right: 6%;
+  padding: 15px;
+  border-radius: 50px;
+  width: fit-content;
+  font-size: 40px;
+  animation: bounce 0.5s;
+  animation-direction: alternate;
+  animation-iteration-count: 1.2s;
+}
+@keyframes bounce {
+  from { transform: translate3d(0, 0, 0);     }
+  to   { transform: translate3d(0, 200px, 0); }
 }

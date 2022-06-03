@@ -1,0 +1,66 @@
+body{
+  font-family: 'loto', sans-serif;
+}
+.vid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.vidc{
+    border: 2px solid orangered;
+    text-align: center;
+    margin: 1rem 0;
+}
+.ht1{
+  text-align: center;
+  margin: 0 2rem;
+}
+.ht2{
+  text-align: center;
+}
+.ht3{
+  text-align: center;
+  margin: 1rem;
+}
+h1{
+  text-align: center;
+  margin: 1rem;
+}
+.arr{
+  text-align: center;
+  font-size: 40px;
+}
+.imgc{
+  border: 2px solid orangered;
+  margin: 1rem 0;
+  padding: auto;
+}
+img{
+  width: 480px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+h3{
+  text-align: center;
+}
+h2{
+  color: orangered;
+  text-align: center;
+  margin: 2rem;
+}
+.tamib{
+  border: 2px solid #000;
+  padding: 1rem;
+}
+#tamig{
+  width: 450px;
+  height: auto;
+}
+.last-sec{
+  border: 2px solid #000;
+  padding: 1rem;
+}
+.lat{
+  width: 440px;
+}

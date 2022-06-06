@@ -16,7 +16,7 @@ body{
 }
 .ht1{
   text-align: center;
-  margin: 0 2rem;
+  margin: 0 2.3rem;
 }
 .ht2{
   text-align: center;
@@ -106,4 +106,12 @@ button{
 @keyframes bounce {
   from { transform: translate3d(0, 0, 0);     }
   to   { transform: translate3d(0, 200px, 0); }
+}
+.mine{
+  border: 2px solid #000;
+  padding: 1rem;
+  margin: 2rem 0;
+}
+.scam{
+  font-weight: bold;
 }
